@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "fb_jwtPrivateKey",
+  "mongodbSeverLink": "fb_mongodbSeverLink"
+}
